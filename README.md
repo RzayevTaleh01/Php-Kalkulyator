@@ -1,7 +1,7 @@
-## Basic calculator with:
-# Frontend
+# Basic calculator with:
+## Frontend
 Html
 Css
 
-# Backend 
+## Backend 
 Php 
